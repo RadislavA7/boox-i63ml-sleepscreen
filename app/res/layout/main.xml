@@ -139,7 +139,7 @@
         android:paddingLeft="4dp"
         android:text="@string/clean_hint"
         android:textColor="#000000"
-        android:textSize="13sp" />
+        android:textSize="12sp" />
 
     <Button
         android:id="@+id/btnRestore"
@@ -155,8 +155,8 @@
         android:id="@+id/hint"
         android:layout_width="fill_parent"
         android:layout_height="wrap_content"
-        android:paddingTop="6dp"
+        android:paddingTop="4dp"
         android:text="@string/hint"
         android:textColor="#000000"
-        android:textSize="13sp" />
+        android:textSize="12sp" />
 </LinearLayout>
