@@ -1,0 +1,13 @@
+# сборка и ключи
+out/
+keystore/
+*.jks
+*.keystore
+tools/
+out-test/
+
+# рабочие файлы
+*.log
+*.tmp
+.vscode/
+.idea/

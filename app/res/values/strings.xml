@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="app_name">Заставка</string>
+    <string name="title">Заставка книги</string>
+    <string name="pick_title">Выбор картинки</string>
+    <string name="cb_auto">Показывать обложку книги, которую читаю</string>
+    <string name="btn_refresh">Обновить обложку сейчас</string>
+    <string name="cb_clean">Очищать экран перед заставкой</string>
+    <string name="clean_hint">При нажатии кнопки питания экран сначала мигает белым, чтобы на заставке не проступали следы прежней страницы. Работает при выключении кнопкой (не по таймеру).</string>
+    <string name="btn_pick">Выбрать картинку…</string>
+    <string name="btn_install">Установить заставку</string>
+    <string name="btn_restore">Восстановить по умолчанию</string>
+    <string name="cb_fill">Обрезать по центру</string>
+    <string name="cb_contrast">Усилить контраст</string>
+    <string name="no_file">Файл не выбран</string>
+    <string name="hint">Заставка показывается при засыпании, выключении и разряде батареи. Своя картинка: положите её в папку Screensaver на книге (по USB). При первой установке Superuser спросит разрешение: нажмите «Разрешить» и отметьте «Запомнить».</string>
+</resources>
